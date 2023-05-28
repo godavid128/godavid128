@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # PORTOFOLIO
 ## About me
 ```
-Hello, My name is David Gorodetchi.
 The dream of coming of age is about to come true.
 Although I wanted to do computer programming after finishing school, 
 I went in the direction of the job: more precisely, to work in the field of construction.
