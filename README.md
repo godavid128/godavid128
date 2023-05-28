@@ -36,14 +36,14 @@ keeping projects up to date, resolving conflicts that may arise, and how to work
 ```
 
 ### My goal is:
-
+```
 > to deepen automated testing,
 > to deepen the Python and Java programming language,
 > and continue to develop the testing branch.
 I study automated testing every day with great enthusiasm 
 I would be happy to apply obtained knowledge to testing an operational product and gain hands-on experience. 
 It is a crucial step in my current carrer goal, to always become better at what I do.
-
+```
 ### Among other strong points, I would like to mention what is predominant:
 - Logical - I learn everything logically. I associate anything new with familiar things.
 - Repetition - I don't like doing repeated things, but I always try to find different solutions.
