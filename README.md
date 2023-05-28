@@ -64,7 +64,7 @@ which means that they easily get over certain conflicts, and try to maintain goo
 * Scrum
 * Creating test cases
 ## Certificates
-* Certif 1 .................
+* Certif 1 https://www.linkedin.com/in/david-gorodetchi-a12025267/overlay/1635527477173/single-media-viewer/?profileId=ACoAAEFSOW4Be2FG-ncMuLaSxXj0UFS5x4Fqsyw
 ## Courses
 * IT FACTORY: Intro in JAVA versus PYTHON
 * IT FACTORY: QA Automation Tester
